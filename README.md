@@ -39,13 +39,13 @@ A simple Todo List Application built using React.js featuring a Kanban-style int
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Atiqur-Rahman/todo-kanban.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-list-app
+   cd todo-kanban
    ```
 
 3. Install dependencies:
